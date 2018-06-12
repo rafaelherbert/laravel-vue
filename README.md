@@ -1,7 +1,7 @@
 # taskManager
 ### Um gerenciador de tarefas feito com laravel e vue.js | A Task manager made with laravel and vue.js.
 
-![<img href="https://github.com/rafaelherbert/laravel-vue/blob/master/Captura%20de%20Tela%20(334).png">](https://github.com/rafaelherbert/laravel-vue/blob/master/Captura%20de%20Tela%20(334).png)
+[](https://github.com/rafaelherbert/laravel-vue/blob/master/Captura%20de%20Tela%20(334).png)
 
 Cada uma das requisições do Gerenciador de tarefas é feita com a Ajax.
 Each one of the requests on the Task Manages ir made with Ajax.
