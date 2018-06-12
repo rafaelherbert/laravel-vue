@@ -3,10 +3,10 @@
 
 ![](https://github.com/rafaelherbert/laravel-vue/blob/master/Captura%20de%20Tela%20(334).png)
 
-Cada uma das requisições do Gerenciador de tarefas é feita com a Ajax.
-Each one of the requests on the Task Manages ir made with Ajax.
+#### Cada uma das requisições do Gerenciador de tarefas é feita com a Ajax.
+#### Each one of the requests on the Task Manager is made with Ajax.
 
-To use the project, follow the next steps:
+#### To use the project, follow the next steps:
  
 - Clone your project
 - Go to the folder application using cd command on your cmd or terminal
@@ -19,7 +19,7 @@ To use the project, follow the next steps:
 - Run php artisan migrate
 - Run php artisan serve
 
-Para utilizar o projeto, siga os seguintes passos:
+#### Para utilizar o projeto, siga os seguintes passos:
 
 - Clone seu projeto
 - Vá para o aplicativo de pasta usando o comando cd no seu cmd ou terminal
