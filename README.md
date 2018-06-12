@@ -1,4 +1,4 @@
-# laravel-vue
+# taskManager
 ### Um gerenciador de tarefas feito com laravel e vue.js | A Task manager made with laravel and vue.js.
 
 ![alt text](https://github.com/rafaelherbert/laravel-vue/blob/master/Captura%20de%20Tela%20(334).png)
