@@ -1,6 +1,8 @@
 # laravel-vue
 ### Um gerenciador de tarefas feito com laravel e vue.js.
 
+![alt text](https://github.com/rafaelherbert/laravel-vue/blob/master/Captura%20de%20Tela%20(334).png)
+
 Cada uma das requisições do Gerenciador de tarefas é feita com a Ajax.
 
 Para utilizar o projeto, siga os seguintes passos:
