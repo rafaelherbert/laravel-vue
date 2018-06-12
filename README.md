@@ -1,11 +1,12 @@
 # laravel-vue
-### Um gerenciador de tarefas feito com laravel e vue.js.
+### Um gerenciador de tarefas feito com laravel e vue.js | A Task manager made with laravel and vue.js.
 
 ![alt text](https://github.com/rafaelherbert/laravel-vue/blob/master/Captura%20de%20Tela%20(334).png)
 
 Cada uma das requisições do Gerenciador de tarefas é feita com a Ajax.
+Each one of the requests on the Task Manages ir made with Ajax.
 
-Para utilizar o projeto, siga os seguintes passos:
+To use the project, follow the next steps:
  
 - [ ] Clone your project
 - [ ] Go to the folder application using cd command on your cmd or terminal
@@ -17,3 +18,16 @@ Para utilizar o projeto, siga os seguintes passos:
 - [ ] Run php artisan key:generate
 - [ ] Run php artisan migrate
 - [ ] Run php artisan serve
+
+Para utilizar o projeto, siga os seguintes passos:
+
+- [ ] Clone seu projeto
+- [ ] Vá para o aplicativo de pasta usando o comando cd no seu cmd ou terminal
+- [ ] Execute a instalação do compositor no seu cmd ou terminal
+- [ ] Copie o arquivo .env.example para .env na pasta raiz. Você pode digitar copy .env.example .env se estiver usando o prompt de comando Windows ou cp .env.example .env se estiver usando terminal, Ubuntu
+- [ ] Abra seu arquivo .env e altere o nome do banco de dados (DB_DATABASE) para o campo que você tenha, username (DB_USERNAME) e password (DB_PASSWORD) correspondente à sua configuração.
+- [ ] Por padrão, o nome de usuário é root e você pode deixar o campo de senha vazio. (Isso é para o Xampp)
+- [ ] Por padrão, o nome de usuário é root e a senha também é root. (Isto é para a lâmpada)
+- [ ] Executar php artisan key: gerar
+- [ ] Executar o php artisan migrate
+- [ ] Executar o serviço de artesão php
